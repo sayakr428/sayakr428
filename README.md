@@ -12,7 +12,7 @@
 
 # 👋 Hey, I'm **Sayak Roy**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Infrastructure+%26+Automation+Engineer+%F0%9F%9A%80;Cloud+%26+DevOps+%E2%98%81%EF%B8%8F;SDN+%7C+Network+Automation+Specialist+%F0%9F%93%A1;Building+AI-Powered+Infra+Workflows+%F0%9F%A4%96;2%2B+Years+Experience+at+Tata+Communications+%F0%9F%92%BC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Infrastructure+%26+Automation+Engineer+%F0%9F%9A%80;Cloud+%26+DevOps+%E2%98%81%EF%B8%8F;SDN+%7C+Network+Automation+Specialist+%F0%9F%93%A1;Building+AI-Powered+Infra+Workflows+%F0%9F%A4%96;3%2B+Years+Experience+in+Corporate+%F0%9F%92%BC" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
