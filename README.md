@@ -102,60 +102,45 @@ Monitoring:
 
 ---
 
-## 🚀 Projects  
+---
 
-### 🔹 **LEO Satellite KPI Monitoring using mtr, iPerf3 & InfluxDB**
-📍 *InfluxDB • Telegraf • Python • Raspberry Pi • Chronograf*  
-- Deployed distributed Raspberry Pi probes connected to LEO terminals for end-to-end KPI measurement (latency, jitter, packet loss).  
-- Built Python ingestion scripts and InfluxDB pipelines for real-time telemetry visualization in Chronograf dashboards.  
-- Automated probe data push via Telegraf for centralized monitoring across multiple test sites.  
-🔗 [GitHub Repo](https://github.com/sayakr428/leo-kpi-monitoring)
+<!-- Featured Projects -->
+
+## 🏆 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🛰️ LEO Satellite KPI Monitoring
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sayakr428&repo=leo-kpi-monitoring&theme=tokyonight&hide_border=true)](https://github.com/sayakr428/leo-kpi-monitoring)
+
+### 🌐 BGP Monitoring & Visualization (OpenBMP)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sayakr428&repo=Implemented-BGP-monitoring-Protocol-to-get-graphical-representation-of-the-BGP-data-s&theme=tokyonight&hide_border=true)](https://github.com/sayakr428/Implemented-BGP-monitoring-Protocol-to-get-graphical-representation-of-the-BGP-data-s)
+
+### 🚀 WebGrow360 – AI Marketing Platform
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sayakr428&repo=webgrw360_exl_Integration&theme=tokyonight&hide_border=true)](https://github.com/sayakr428/webgrw360_exl_Integration)
+
+</td>
+<td width="50%">
+
+### ☁️ Cloud Butler – Infra Automation
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sayakr428&repo=cloud-butler-infra&theme=tokyonight&hide_border=true)](https://github.com/sayakr428/cloud-butler-infra)
+
+### 🤖 AI Job Application Assistant
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sayakr428&repo=ai-job-application-assistant&theme=tokyonight&hide_border=true)](https://github.com/sayakr428/ai-job-application-assistant)
+
+### 🕷️ Web Scraping & AI Paraphrasing
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sayakr428&repo=WebScraping_to_gather_website_details&theme=tokyonight&hide_border=true)](https://github.com/sayakr428/WebScraping_to_gather_website_details)
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-### 🔹 **BGP Monitoring Protocol (OpenBMP) Visualization**
-📍 *Docker • Kafka • PostgreSQL • Grafana • OpenBMP*  
-- Containerized an OpenBMP stack to visualize real-time BGP routing table updates.  
-- Integrated routers via BMP feeds to track route changes, session drops, and peer stability.  
-- Built Grafana dashboards for prefix reachability, peer health, and anomaly detection.  
-🔗 [GitHub Repo](https://github.com/sayakr428/Implemented-BGP-monitoring-Protocol-to-get-graphical-representation-of-the-BGP-data-s)
-
----
-
-### 🔹 **WebGrow360 – AI-Powered Digital Marketing Platform**
-📍 *React.js • Node.js • MongoDB • Prisma • Docker • Hostinger*  
-- Built a full-stack AI-driven marketing automation platform with real-time analytics.  
-- Integrated Google Search Console APIs for SEO insights and campaign performance.  
-- Automated deployment using GitHub Actions and Docker on Hostinger Cloud.  
-🔗 [GitHub Repo](https://github.com/sayakr428/webgrw360_exl_Integration)
-
----
-
-### 🔹 **Cloud Butler – Terraform-Driven Infrastructure Automation**
-📍 *Terraform • AWS • n8n • Flask*  
-- Developed reusable Terraform modules for EC2 provisioning and auto-scaling infrastructure.  
-- Integrated with n8n workflows to deploy, summarize, and monitor EC2 instances dynamically.  
-🔗 [GitHub Repo](https://github.com/sayakr428/cloud-butler-infra)
-
----
-
-### 🔹 **AI Job Application Assistant (OpenAI + n8n + Google Sheets)**
-📍 *n8n • OpenAI API • Google Sheets • Telegram Bot*  
-- Built an AI workflow that automatically searches LinkedIn jobs, scores them against your resume, and generates custom cover letters.  
-- Integrates with Google Sheets for storage and Telegram for job alerts.  
-- Uses OpenAI GPT-4 for intelligent job-fit scoring and content generation.  
-🔗 [GitHub Repo](https://github.com/sayakr428/ai-job-application-assistant)
-
----
-
-### 🔹 **Web Scraping & AI Paraphrasing Automation**
-📍 *Python • BeautifulSoup • Selenium • OpenAI API • Pandas*  
-- Scraped large datasets using headless Chrome & proxy rotation.  
-- Automated AI paraphrasing using OpenAI GPT & Hugging Face models for SEO-optimized outputs.  
-- Exported structured data to CSV / Excel pipelines.  
-🔗 [GitHub Repo](https://github.com/sayakr428/WebScraping_to_gather_website_details)
-
----
 
 ## 🏆 Awards & Recognition  
 
@@ -179,7 +164,18 @@ Reduced manual configuration efforts by > 60 % across production environments.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayakr428&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
+ <a>
+        <img width=200 src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Daftpunktocat Guy" />
+    </a>
+
 </div>
+
+<p align="center">
+    <a href="https://github.com/sayakr428">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayakr428&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
+    </a>
+</p>
+
 
 ---
 
