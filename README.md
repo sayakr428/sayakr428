@@ -22,7 +22,7 @@
 
 ## 🚀 About Me  
 
-AI Infrastructure & Automation Engineer with **2+ years at Tata Communications**, building:  
+AI Infrastructure & Automation Engineer with **3+ years in AI, Machine Learning and DevOps**, building:  
 🧠 AI-driven workflows  
 🛰️ SDN automation  
 ☁️ Cloud-native infra  
