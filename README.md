@@ -1,3 +1,13 @@
+<!-- Profile Views and Visitor Count -->
+
+<div align="center">
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sayakr428.sayakr428" alt="Visitor Badge">
+    <img align="left" src="https://komarev.com/ghpvc/?username=sayakr428&label=PROFILE+VIEWS" alt="Profile Views">
+</div>
+
+<!-- --- -->
+
+
 <div align="center">
 
 # 👋 Hey, I'm **Sayak Roy**
