@@ -51,6 +51,7 @@ Monitoring:
   - Prometheus
 ```
 ---
+## 💼 Skills & Technologies
 
 <h3 align="center">💻 Languages & Core Technologies</h3>
 <br>
@@ -99,8 +100,6 @@ Monitoring:
     <img src="https://skillicons.dev/icons?i=git,postman,vscode,linux" />
   </a>
 </p>
-
----
 
 ---
 
