@@ -50,83 +50,55 @@ Monitoring:
   - Grafana
   - Prometheus
 ```
-
-
-## 🛠️ Tech Stack
-
-### 💻 Languages & Core Technologies
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
 ---
 
-### 🌐 Full-Stack & Backend Development (MERN + APIs)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![NETCONF](https://img.shields.io/badge/NETCONF-005571?style=for-the-badge)
-![RESTCONF](https://img.shields.io/badge/RESTCONF-0A66C2?style=for-the-badge)
+<h3 align="center">💻 Languages & Core Technologies</h3>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,sass" />
+  </a>
+</p>
 
----
+<h3 align="center">🌐 Full-Stack & Backend (MERN + APIs)</h3>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flask,html,css" />
+  </a>
+</p>
 
-### ☁️ Cloud, DevOps & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Terraform Cloud](https://img.shields.io/badge/Terraform_Cloud-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=black)
+<h3 align="center">☁️ Cloud, DevOps & Infrastructure</h3>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible,docker,kubernetes,jenkins,github,gitlab,linux" />
+  </a>
+</p>
 
----
+<h3 align="center">📡 Containers, Networking & SDN</h3>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx" />
+  </a>
+</p>
 
-### 🐳 Containers, Networking & SDN
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker--Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![BGP](https://img.shields.io/badge/BGP-005571?style=for-the-badge)
-![EVPN](https://img.shields.io/badge/EVPN-003366?style=for-the-badge)
-![VXLAN](https://img.shields.io/badge/VXLAN-004C99?style=for-the-badge)
-![Segment_Routing](https://img.shields.io/badge/Segment_Routing-0B5ED7?style=for-the-badge)
-![OpenDaylight](https://img.shields.io/badge/OpenDaylight-007ACC?style=for-the-badge)
-![Juniper](https://img.shields.io/badge/Juniper-84BD00?style=for-the-badge)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge)
+<h3 align="center">📊 Observability, Data & Automation</h3>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=grafana,prometheus,kafka,postgres,mongodb" />
+  </a>
+</p>
 
----
-
-### 📊 Observability, Data & Automation
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
-![Chronograf](https://img.shields.io/badge/Chronograf-000000?style=for-the-badge)
-![Telegraf](https://img.shields.io/badge/Telegraf-22ADF6?style=for-the-badge)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6A00?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-5A29E4?style=for-the-badge)
-
----
-
-### 🛠️ Tools, Analytics & Security
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GA4](https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge)
-![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-0078D4?style=for-the-badge)
-![SEMrush](https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge)
-![Arbor](https://img.shields.io/badge/Arbor_Networks-1F3C88?style=for-the-badge)
-![Kentik](https://img.shields.io/badge/Kentik-0052CC?style=for-the-badge)
+<h3 align="center">🛠️ Tools, Analytics & Security</h3>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,postman,vscode,linux" />
+  </a>
+</p>
 
 ---
 
