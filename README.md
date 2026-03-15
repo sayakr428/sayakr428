@@ -190,6 +190,17 @@ Reduced manual configuration efforts by > 60 % across production environments.
 
 ---
 
+<!-- Trophies -->
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+
+<p align="center">
+    <a href="https://github.com/sayakr428">
+        <img src="https://github-profile-trophy.vercel.app/?username=sayakr428&theme=algolia" alt="GitHub Trophies">
+    </a>
+</p>
+
+---
+
 
 
 ### 📫 Let's Connect!
