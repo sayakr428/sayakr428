@@ -191,17 +191,22 @@ Reduced manual configuration efforts by > 60 % across production environments.
 ---
 
 <!-- Trophies -->
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<h2 align="center">🏆 GitHub Achievements 🏆</h2>
 
 <p align="center">
-    <a href="https://github.com/sayakr428">
-        <img src="https://github-profile-trophy.vercel.app/?username=sayakr428&theme=algolia" alt="GitHub Trophies">
-    </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=sayakr428&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
 </p>
 
 ---
 
+<!-- Quote Section -->
+<h2 align="center">✍️ Dev Quote of the Day</h2>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
 
 ### 📫 Let's Connect!
 [![Email](https://img.shields.io/badge/Email-sayakr428%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayakr428@gmail.com)
