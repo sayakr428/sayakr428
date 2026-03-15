@@ -195,7 +195,7 @@ Reduced manual configuration efforts by > 60 % across production environments.
 ### 📫 Let's Connect!
 [![Email](https://img.shields.io/badge/Email-sayakr428%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayakr428@gmail.com)
 [![Portfolio](https://img.shields.io/badge/sayakroyportfolio.netlify.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sayakroyportfolio.netlify.app)
-[![CV](https://img.shields.io/badge/CV-View_Resume-green?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1zqs5FDwvxvG9amAOVWHLXSzBydL73Roc/view?usp=sharing)
+[![CV](https://img.shields.io/badge/CV-View_Resume-green?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1RBZrakOUGdUFyibDtWvCe7O4J94zjuNi/view?usp=sharing)
 
 ---
 
