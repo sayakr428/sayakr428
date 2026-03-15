@@ -111,6 +111,24 @@ Monitoring:
   </a>
 </p>
 
+<h3 align="center">🤖 AI, Machine Learning & Deep Learning</h3>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" />
+  </a>
+</p>
+
+<h3 align="center">🧠 AI Agents, LLM Engineering & Agentic AI</h3>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Agents-Autonomous%20Systems-blue?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-Multi%20Agent%20Systems-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM%20Engineering-Prompt%20Engineering-black?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-AI%20Workflows-orange?style=for-the-badge"/>
+</p>
+
 ---
 
 <!-- Featured Projects -->
