@@ -199,11 +199,10 @@ Reduced manual configuration efforts by > 60 % across production environments.
 
 ---
 
-<!-- Quote Section -->
-<h2 align="center">✍️ Dev Quote of the Day</h2>
+<h2 align="center">💭 Daily Coding Inspiration</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" />
 </p>
 
 ---
