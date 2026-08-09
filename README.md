@@ -138,28 +138,110 @@ Monitoring:
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" style="background-color:#15162a;border-radius:8px;padding:15px;border:1px solid #30363d;">
 
 ### 🛰️ LEO Satellite KPI Monitoring
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sayakr428&repo=leo-kpi-monitoring&theme=tokyonight&hide_border=true)](https://github.com/sayakr428/leo-kpi-monitoring)
+Automated **KPI monitoring** using `iperf3`, `MTR` & **InfluxDB** with shell scripting.
 
-### 🌐 BGP Monitoring & Visualization (OpenBMP)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sayakr428&repo=Implemented-BGP-monitoring-Protocol-to-get-graphical-representation-of-the-BGP-data-s&theme=tokyonight&hide_border=true)](https://github.com/sayakr428/Implemented-BGP-monitoring-Protocol-to-get-graphical-representation-of-the-BGP-data-s)
+<p align="center">
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" />
+</p>
 
-### 🚀 WebGrow360 – AI Marketing Platform
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sayakr428&repo=webgrw360_exl_Integration&theme=tokyonight&hide_border=true)](https://github.com/sayakr428/webgrw360_exl_Integration)
+<p align="center">
+  <a href="https://github.com/sayakr428/leo-kpi-monitoring">
+    <img src="https://img.shields.io/badge/View_Repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" style="background-color:#15162a;border-radius:8px;padding:15px;border:1px solid #30363d;">
+
+### 🌐 BGP Monitoring & Visualization
+**OpenBMP**-based BGP monitoring with **real-time graphical visualization** of routing data.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenBMP-2E4053?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Monitoring-E74C3C?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/sayakr428/Implemented-BGP-monitoring-Protocol-to-get-graphical-representation-of-the-BGP-data-s">
+    <img src="https://img.shields.io/badge/View_Repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" style="background-color:#15162a;border-radius:8px;padding:15px;border:1px solid #30363d;">
 
 ### ☁️ Cloud Butler – Infra Automation
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sayakr428&repo=cloud-butler-infra&theme=tokyonight&hide_border=true)](https://github.com/sayakr428/cloud-butler-infra)
+Cloud infrastructure & **DevOps automation** with `Terraform`, `Bash` & **AI-based forecasting**.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/sayakr428/cloud-butler-infra">
+    <img src="https://img.shields.io/badge/View_Repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+<td width="50%" style="background-color:#15162a;border-radius:8px;padding:15px;border:1px solid #30363d;">
+
+### 🚀 WebGrow360 – AI Marketing Platform
+AI-powered marketing platform with **serverless lead tracking** built on TypeScript & Netlify.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/sayakr428/webgrw360_exl_Integration">
+    <img src="https://img.shields.io/badge/View_Repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" style="background-color:#15162a;border-radius:8px;padding:15px;border:1px solid #30363d;">
 
 ### 🤖 AI Job Application Assistant
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sayakr428&repo=ai-job-application-assistant&theme=tokyonight&hide_border=true)](https://github.com/sayakr428/ai-job-application-assistant)
+Automated **job-hunting workflows** built with `n8n` to streamline the application process.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-2A6DF4?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/sayakr428/Job-Hunting-using-N8N">
+    <img src="https://img.shields.io/badge/View_Repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+<td width="50%" style="background-color:#15162a;border-radius:8px;padding:15px;border:1px solid #30363d;">
 
 ### 🕷️ Web Scraping & AI Paraphrasing
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sayakr428&repo=WebScraping_to_gather_website_details&theme=tokyonight&hide_border=true)](https://github.com/sayakr428/WebScraping_to_gather_website_details)
+**Web scraping** & local **AI paraphrasing** powered by **Ollama** & Python.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/sayakr428/Paraphrasing-Using-ollama">
+    <img src="https://img.shields.io/badge/View_Repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </td>
 </tr>
@@ -172,7 +254,7 @@ Monitoring:
 ## 🏆 Awards & Recognition  
 
 🏅 **Extra Mile Award – Tata Communications (2024)**  
-For developing an **automation framework** that dynamically generated multi-vendor JSON configurations for BGP setups, integrated with Tata’s private IZO Cloud via Ansible.  
+For developing an **automation framework** that dynamically generated multi-vendor JSON configurations for BGP setups, integrated with Tata's private IZO Cloud via Ansible.  
 Reduced manual configuration efforts by > 60 % across production environments.  
 
 ---
@@ -186,15 +268,27 @@ Reduced manual configuration efforts by > 60 % across production environments.
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayakr428&theme=tokyonight" alt="Profile Details" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sayakr428&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayakr428&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sayakr428&theme=tokyonight" height="180" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sayakr428&theme=tokyonight&utcOffset=5.5" height="180" alt="Productive Time" />
+</div>
 
- <a>
-        <img width=200 src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Daftpunktocat Guy" />
-    </a>
+<br>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sayakr428&theme=tokyonight" height="180" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sayakr428&theme=tokyonight" height="180" alt="Most Commit Language" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=sayakr428&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak" />
 </div>
 
 ---
@@ -208,11 +302,19 @@ Reduced manual configuration efforts by > 60 % across production environments.
 
 ---
 
-<!-- Trophies -->
-<h2 align="center">🏆 GitHub Achievements 🏆</h2>
+<!-- Milestones -->
+<h2 align="center">🏅 GitHub Milestones 🏅</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Repositories-28-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/On_GitHub-Since_2021-6E40C9?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contributions-180-22ADF6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-7_Repos-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-7_Repos-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayakr428&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
+  <img width="220" src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Daftpunktocat Guy" />
 </p>
 
 ---
@@ -246,9 +348,6 @@ Reduced manual configuration efforts by > 60 % across production environments.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sayakr428&color=blueviolet&style=for-the-badge)
 
-**Thanks for visiting! Let’s build something amazing together! 🚀**
+**Thanks for visiting! Let's build something amazing together! 🚀**
 
 </div>
-
-
-
