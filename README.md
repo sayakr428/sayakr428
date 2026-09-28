@@ -297,7 +297,7 @@ Reduced manual configuration efforts by > 60 % across production environments.
 
 <p align="center">
     <a href="https://github.com/sayakr428">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayakr428&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
+        <img src="./assets/activity-graph.svg" alt="GitHub Activity Graph" width="100%">
     </a>
 </p>
 
